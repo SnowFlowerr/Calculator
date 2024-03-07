@@ -1,0 +1,7 @@
+.display{
+    border: 2px solid black;
+    font-size: 100px;
+    width: 97%;
+    margin: 1% 1% 1% 1%;
+    border-radius: 10px;
+}

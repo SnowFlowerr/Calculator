@@ -1,0 +1,22 @@
+.calcbtn{
+    width: 24%;
+    font-size: 60px;
+    margin: 0.5%;
+    border-radius: 10px;
+}
+.clearbtn{
+    width: 74%;
+    font-size: 60px;
+    margin: 0.5%;
+    border-radius: 10px;
+}
+.boxbtn{
+    border: 2px solid black;
+    margin: 1%;
+    border-radius: 10px;
+    background-color: rgb(255, 255, 255);
+}
+.calcbtn:hover,.clearbtn:hover{
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
